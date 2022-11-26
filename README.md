@@ -13,6 +13,7 @@
  <li><b>flowaccu.tif</b> Delimitación de Cuencas.</li>
  <li><b>flowdir.tif</b> Dirección de Flujo.</li>
  <li><b>glaciares.gpkg</b> Inventario Público de Glaciares año 2022.</lib>
+ <li><b>nombre.gpkg</b> Nombre de lagos y lagunas.</li>
  <li><b>pendiente.tif</b> Ángulo de inclinación de terreno medida en grados.</li>
  <li><b>poblados.gpkg</b> Ubicación de pueblos, caseríos y villas.</li>
  <li><b>redDrenaje</b> Red Hídrica.</li>
